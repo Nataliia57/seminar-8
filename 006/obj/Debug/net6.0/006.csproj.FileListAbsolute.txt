@@ -1,0 +1,15 @@
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/bin/Debug/net6.0/006
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/bin/Debug/net6.0/006.deps.json
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/bin/Debug/net6.0/006.runtimeconfig.json
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/bin/Debug/net6.0/006.dll
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/bin/Debug/net6.0/006.pdb
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.csproj.AssemblyReference.cache
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.AssemblyInfoInputs.cache
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.AssemblyInfo.cs
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.csproj.CoreCompileInputs.cache
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.dll
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/refint/006.dll
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.pdb
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/006.genruntimeconfig.cache
+/Users/nataliyaivanova/Desktop/ОБУЧЕНИЕ РАЗРАБОТЧИК/1 Четверть 3.Знакомство с языками программирования/СЕМИНАР 8/Решение задач семинар 8/006/obj/Debug/net6.0/ref/006.dll
